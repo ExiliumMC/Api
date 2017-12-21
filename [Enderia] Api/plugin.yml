@@ -1,0 +1,7 @@
+name: EnderiaAPI
+version: 1.0
+author: lolpop78910
+main: fr.lolpop78910.enderiaapi.Main
+commands:
+  money:
+    description: Pour voir vos EnderiaCoins
